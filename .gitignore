@@ -1,0 +1,15 @@
+# Node/React
+frontend/node_modules/
+# npm-debug.log*
+# build/
+
+# Java/Maven
+backend/target/
+# *.class
+# *.jar
+# .mvn/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
